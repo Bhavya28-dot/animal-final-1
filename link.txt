@@ -1,0 +1,6 @@
+https://teachablemachine.withgoogle.com/models/shbo96Ifz/
+
+<img src="cat.gif" id="cat"width="300" height="300">
+  <img src="bark.gif" id="dog"width="300" height="300">
+  <img src="lion.gif" id="lion"width="300" height="300">
+  <img src="mooing.gif" id="cow"width="300" height="300">
